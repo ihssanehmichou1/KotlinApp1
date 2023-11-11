@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kotlin-app1</string>
+    <string name="edittext_events" />
+    <string name="textview">\n</string>
+    <string name="text_value" />
+    <string name="onitemselectedlistener">OnItemSelectedListener</string>
+    <string name="text">Text</string>
+    <string name="drag_imageview">Drag ImageView</string>
+</resources>
